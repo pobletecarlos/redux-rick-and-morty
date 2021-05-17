@@ -6,7 +6,7 @@ Application made with react and redux for educational purposes
 
 ### Install dependencies
 
-- run the following command
+- Run the following command
 
 ```
 yarn install
@@ -14,7 +14,7 @@ yarn install
 
 ### Run app
 
-- for up app run the next command
+- Run App with the next command
 
 ```
 yarn build
